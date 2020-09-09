@@ -1,16 +1,15 @@
-### Hi there 👋
+# Azels
+Hi there, welcome to my github profile, I'm Azels. I'm very interested in programming, application security, gaming and game hacking. My language of choice is usually C++.
 
-<!--
-**Azels56/Azels56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ♿ The languages, I've only learned.
+* C++. [Only WINAPI]
+* C#. [UI/ETC]
 
-Here are some ideas to get you started:
+## ⛏ My projects
+[REDACTED]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Contacts
+- ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - azels#0056.
+
+___
+p.s Original author -> [Click me](https://github.com/sapphyrus/sapphyrus).
