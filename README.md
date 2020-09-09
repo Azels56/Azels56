@@ -8,7 +8,7 @@ Hi there, welcome to my github profile, I'm Azels. I'm very interested in progra
 ## My projects
 [REDACTED]
 
-## Contacts
+## If you want to contact me, here's how:
 - ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - azels#0056.
 
 ___
